@@ -1,8 +1,0 @@
-Cara Scrape data
-1. google_play_scraper (google playstore (ulasan aplikasi))
-2. BeautifulSoup (wikipedia)
-3. selenium (news)
-4. playwright (news)
-5. scrapy (qoutes)
-6. API (github)
-7. website scraper gratis 
